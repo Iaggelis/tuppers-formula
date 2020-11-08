@@ -5,7 +5,7 @@ A simple visualization of tupper's self-referential formula using C and SDL2. Th
 ![screenshot](./images/screenshot.png)
 
 
-## Quick Start
+## Building 
 
 Dependencies: 
 
